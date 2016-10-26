@@ -1,1 +1,3 @@
-# cpp.research
+# C++ research
+
+C++ labs ... random features from C++
